@@ -76,7 +76,7 @@ header {
 .banner {
     background-image: url("assets/banner.jpeg");
     width: 100vw;
-    min-height: 51.2vh;
+    min-height: 50.9vh;
     max-height: 400px;
     object-fit: cover;
 }
