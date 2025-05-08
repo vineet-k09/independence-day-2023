@@ -2,7 +2,7 @@
 **Webpage on Indian Independence Day 2023**
 
 <p>
-  <img src="https://github.com/vineet-k09/independence-day-2023/raw/main/Screenshot.png" alt="Independence Day 2023 Screenshot" width="500">
+  <img src="https://github.com/vineet-k09/independence-day-2023/raw/main/Screenshot" alt="Independence Day 2023 Screenshot" width="500">
 </p>
 
 See the webpage live here:  
