@@ -7,5 +7,3 @@
 
 See the webpage live here:  
 <a href="https://vineet-k09.github.io/assets/pages/independence%20day%202023/index.html" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#fff; border-radius:5px; text-decoration:none;">🎉 See Live 🎉</a>  
-
-[View styles (app.css)](https://github.com/vineet-k09/independence-day-2023/blob/main/app.css)
